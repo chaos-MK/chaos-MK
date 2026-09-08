@@ -1,16 +1,38 @@
-## Hi there 👋
+# Mohamed Khalil
 
-<!--
-**chaos-MK/chaos-MK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ DevSecOps & Cloud Security Engineer
 
-Here are some ideas to get you started:
+Building **secure cloud-native infrastructure, automated security pipelines, and resilient Kubernetes environments.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+DevSecOps  •  Cloud Security  •  Kubernetes  •  Infrastructure as Code
+```
+
+### ⚙️ Tech
+
+**Cloud & Infrastructure**
+AWS · Terraform · Kubernetes · Helm · Linux
+
+**Security**
+HashiCorp Vault · Trivy · Snyk · Semgrep · Gitleaks · OWASP ZAP
+
+**DevOps**
+GitLab CI/CD · Docker · Podman · Git
+
+**Observability**
+Prometheus · Grafana · Loki
+
+**Development**
+Java · Spring Boot · React · Next.js · PostgreSQL
+
+### 🔐 Focus
+
+DevSecOps · Cloud Security · Kubernetes Security · CI/CD Security · Container Security · Infrastructure Security · Threat Modeling
+
+### 🚀 Currently
+
+Working on secure cloud-native platforms and deepening my expertise in **AWS Security, Kubernetes, and DevSecOps**.
+
+📫 **[mohamed.khalil.pu@gmail.com](mailto:mohamed.khalil.pu@gmail.com)**
+
+> *Security should be built in — not bolted on.*
